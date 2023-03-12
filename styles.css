@@ -5,7 +5,7 @@
 }
 body,html {
     scroll-behavior: smooth;
-    height: 100%;
+    height: 100vh;
     width:100%;
     padding-top: 0;     
     overflow-x: clip;
@@ -209,7 +209,7 @@ a {
         width:100%;
     }
     .section__height {
-    height:auto;
+    height:100vh;
    }
     .columns3 {
         width:100%;
