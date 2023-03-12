@@ -170,7 +170,7 @@ a {
     }
     .nav_list {
     justify-content: space-around;
-    column-gap: 1rem;
+    column-gap: 2rem;
     padding-bottom: 10px;
 }
  .active_link {
