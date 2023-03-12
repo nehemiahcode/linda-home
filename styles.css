@@ -170,7 +170,7 @@ a {
     }
     .nav_list {
     justify-content: space-around;
-    column-gap: 2rem;
+    column-gap: 3rem;
     padding-bottom: 10px;
 }
  .active_link {
@@ -229,7 +229,7 @@ a {
     top:40%;
     left:10%;
     transform: translate(-50%, -50%);
-    padding-left: 9.5rem;
+    padding-left: 8rem;
     padding-top: 3rem;
  }
 
