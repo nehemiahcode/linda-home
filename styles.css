@@ -170,10 +170,8 @@ a {
     }
     .nav_list {
     justify-content: space-around;
-    column-gap: 4rem;
+    column-gap: 1.5rem;
     padding-bottom: 10px;
-        padding-right:2px;
-        padding-left:2px;
 }
  .active_link {
     position: relative;
@@ -211,7 +209,7 @@ a {
         width:100%;
     }
     .section__height {
-    height:200vh;
+    height:auto;
    }
     .columns3 {
         width:100%;
