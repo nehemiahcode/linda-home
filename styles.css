@@ -5,7 +5,7 @@
 }
 body,html {
     scroll-behavior: smooth;
-    height: 100vh;
+    height: 100%;
     width:100%;
     padding-top: 0;     
     overflow-x: clip;
@@ -267,7 +267,7 @@ a {
  padding-left:13px ;
  padding-right: 10px;
  font-family: Verdana, Geneva, Tahoma, sans-serif;
- color:white;
+ color:black;
  font-size: 17px;
   }
 
