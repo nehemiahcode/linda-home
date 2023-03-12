@@ -558,7 +558,7 @@ display: inline-flex;
 }
 .wrapper .footer-icon {
 padding-bottom: 10px;
-margin: 0 20px;
+margin: 0 10px;
 cursor: pointer;
 display: flex;
 align-items: center;
@@ -572,8 +572,8 @@ transition: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 position: relative;
 text-align: center;
 z-index: 2;
-height: 50px;
-width:50px;
+height: 40px;
+width:40px;
 display: block;
 background: #fff;
 box-shadow: 0 10px 10px rgba(0,0,0,0.1);
@@ -582,7 +582,7 @@ border-radius: 50%;
 
 .wrapper .footer-icon span i {
 font-size: 20px;
-line-height: 50px;
+line-height: 40px;
 color:black;
 }
 .wrapper .footer-icon:hover span {
