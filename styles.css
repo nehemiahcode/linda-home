@@ -170,8 +170,10 @@ a {
     }
     .nav_list {
     justify-content: space-around;
-    column-gap: 3rem;
+    column-gap: 4rem;
     padding-bottom: 10px;
+        padding-right:2px;
+        padding-left:2px;
 }
  .active_link {
     position: relative;
