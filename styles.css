@@ -210,9 +210,9 @@ a {
     .columns {
         width:100%;
     }
-    .section__height {
-    height:100vh;
-   }
+/*     .section__height {
+    height:200vh;
+   } */
     .columns3 {
         width:100%;
     }
